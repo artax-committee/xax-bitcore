@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoin Core
+Comment=Connect to the Xax P2P Network
+Exec=xax-qt %u
+Terminal=false
+Type=Application
+Icon=xax128
+MimeType=x-scheme-handler/xax;
+Categories=Office;Finance;
